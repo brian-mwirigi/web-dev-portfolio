@@ -1,0 +1,22 @@
+[
+  {
+    "name": "E-Commerce App",
+    "description": "A full-stack e-commerce application.",
+    "link": "https://github.com/example/ecommerce"
+  },
+  {
+    "name": "Weather Dashboard",
+    "description": "A real-time weather dashboard.",
+    "link": "https://github.com/example/weather"
+  },
+  {
+    "name": "Task Tracker",
+    "description": "A simple task tracking app.",
+    "link": "https://github.com/example/task-tracker"
+  },
+  {
+    "name": "Blog Platform",
+    "description": "A blogging platform built with React and Node.js.",
+    "link": "https://github.com/example/blog"
+  }
+]
