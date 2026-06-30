@@ -6,7 +6,7 @@ const About = () => {
             <h1 className="about-heading">About Me</h1>
             <div className="about-info">
 
-                <p className="about-desc">I am Brian Munene Mwirigi, i am a software engineer passionate about building scalable, maintainable, and user-centered applications.</p>
+                <p className="about-desc">I am Brian Munene Mwirigi, i am a software engineer passionate about building sapplications.</p>
                 <div className="about-img">
                     <div className="about-img-wrapper">
                         <img src={IMG} alt="Detective" />
